@@ -1,2 +1,2 @@
 # itsmagicemgine.res
-Pasta de arquivos para ITsMagic
+Arquivos por gabesouza007amor@gmail.com 
